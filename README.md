@@ -8,9 +8,13 @@
 
 - 💻 Веб разработчик
 
-- ☀️ Основное направление React и NextJS
+- ☀️ Основное направления React и NextJS
 
 - 👯 Буду рад любому сотрудничеству и дельному совету
+
+### Мои контакты:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/valerakaktotak)
 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
