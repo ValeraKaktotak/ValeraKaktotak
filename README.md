@@ -3,7 +3,7 @@
 ## Я Junior Frontend разработчик
 
 <p align="center">
- <img width="600" src="src/assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="src/github-snake.svg" alt="snake"/>
 </p>
 
 - 💻 Веб разработчик
