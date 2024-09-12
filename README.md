@@ -1,8 +1,11 @@
+<style>
+  .pb { padding-bottom: 1em; }
+</style>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет!+👋;+меня+зовут+Валера!;" />
 </h1>
 
-<h2 align="center" style="padding-bottom: 1em!important;">Я Junior Frontend разработчик</h2>
+<h2 align="center" class="pb">Я Junior Frontend разработчик</h2>
 
 <p align="center">
  <img width="600" src="src/github-snake.svg" alt="snake"/>
