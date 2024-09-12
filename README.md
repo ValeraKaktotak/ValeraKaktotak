@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет!+👋;+меня+зовут+Валера!;" />
 </h1>
 
-<h1 align="center">Я Junior Frontend разработчик</h1>
+<h2 align="center">Я Junior Frontend разработчик</h2>
 
 <p align="center">
  <img width="600" src="src/github-snake.svg" alt="snake"/>
@@ -23,7 +23,7 @@
 <h3 align="left">⚒️ Инструменты, которые я использую ⚒️</h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,typescript,react,nextjs" /><br><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,tailwind,git,firebase" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,tailwind,scss,git,firebase" />
 
 </div>
 
