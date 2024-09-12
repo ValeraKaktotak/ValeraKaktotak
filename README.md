@@ -2,27 +2,34 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет!+👋;+меня+зовут+Валера!;" />
 </h1>
 
-<h3 align="center">Я Junior Frontend разработчик</h3>
+<h1 align="center">Я Junior Frontend разработчик</h1>
 
 <p align="center">
  <img width="600" src="src/github-snake.svg" alt="snake"/>
 </p>
 
-- 💻 Веб разработчик
+<p align="left">
+  💻 Веб разработчик
+</p>
+<p align="left">
+  ☀️ Основные направления React и Next.js
+</p>
+<p align="left">
+  👯 Буду рад любому сотрудничеству и дельному совету
+</p>
 
-- ☀️ Основные направления React и Next.js
+<hr />
 
-- 👯 Буду рад любому сотрудничеству и дельному совету
-
-<h2 align="center">⚒️ Инструменты, которые я использую ⚒️</h2>
-<br/>
-<div align="center">
+<h3 align="left">⚒️ Инструменты, которые я использую ⚒️</h3>
+<div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,typescript,react,nextjs" /><br><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,tailwind,git,firebase" />
 
 </div>
 
-### Мои контакты:
+<hr />
+
+<h3 align="left">Мои контакты:</h3>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/valerakaktotak)
 
