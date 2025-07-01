@@ -1,16 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет!+👋;+меня+зовут+Валера!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет!+👋;" />
 </h1>
-
-<h2 align="center">Я стремлюсь стать Junior Frontend разработчиком</h2>
 
 <p align="center">
  <img width="600" src="src/github-snake.svg" alt="snake"/>
 </p>
 
-<p align="left">
-  💻 Веб разработчик
-</p>
 <p align="left">
   ☀️ Основные направления React и Next.js
 </p>
